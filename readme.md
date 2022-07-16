@@ -55,3 +55,7 @@ git push origin master
 
 https://github.com/thinkaw/gitlearning
 
+--测试另外一种情况
+先在github上建立repo
+然后clone to local
+
