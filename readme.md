@@ -38,3 +38,6 @@ git remote -v
 git remote rm origin
 
 
+--删除远程仓库
+
+
