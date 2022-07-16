@@ -39,6 +39,7 @@ git remote rm origin
 
 
 --删除远程仓库
+
 --无需修改本地和远程的关联
 git push origin master
 
