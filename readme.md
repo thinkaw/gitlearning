@@ -39,5 +39,12 @@ git remote rm origin
 
 
 --删除远程仓库
+--无需修改本地和远程的关联
+git push origin master
 
+> D:\Code\gittest>git remote -v
+> origin  git@github.com:thinkaw/test.git (fetch)
+> origin  git@github.com:thinkaw/test.git (push)
+
+https://github.com/thinkaw/gitlearning
 
