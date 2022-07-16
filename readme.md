@@ -27,6 +27,7 @@ create a new repo
 git remote add origin git@github.com:username/newrepo.git
 
 //git remote add origin https://github.com/thinkaw/test.git
+
 //这个需要网页登录，上面那个不用
 
 git push -u origin master
@@ -41,6 +42,7 @@ git remote rm origin
 --删除远程仓库
 
 --无需修改本地和远程的关联
+
 git push origin master
 
 > D:\Code\gittest>git remote -v
