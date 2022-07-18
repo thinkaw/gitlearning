@@ -63,4 +63,6 @@ https://github.com/thinkaw/gitlearning
 
 未测试成功，目前先使用第一种方法做吧
 
+----
+测试多台机器共享
 
