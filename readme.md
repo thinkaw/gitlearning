@@ -67,3 +67,6 @@ https://github.com/thinkaw/gitlearning
 测试多台机器共享
 
 好像可以了
+
+
+滴滴答
